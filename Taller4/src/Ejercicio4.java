@@ -13,3 +13,11 @@ public class Ejercicio4 {
         System.out.println("EL VALOR DE LA PLANTILLA DE TELEFONO ES: $" + total);   
     }
 }
+
+/***
+ * INGRESE EL COSTO POR MINUTO
+3
+INGRESE EL NUMERO DE MINUTOS CONSUMIDOS EN EL MES
+25
+EL VALOR DE LA PLANTILLA DE TELEFONO ES: $75.0
+ */
